@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <div>
  <p>
     <img  src="https://images.squarespace-cdn.com/content/v1/574faff6f8baf35e5da43485/1553914921320-JL7TJLMKYJ0H1JUXG5CY/Data-Inspect.gif?format=1000w" alt="maheshdethe01" width="41%" />
-    <img align="right" src="https://cdn.dribbble.com/users/668001/screenshots/3861883/data-graphic-animation.gif" alt="maheshdethe01" width="41%" />
+    <img align="right" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/200w.gif?cid=82a1493b4hsvjb5f485v272b7hoyhuaeyyfjfu6a3dm3wb0k&rid=200w.gif&ct=g" alt="maheshdethe01" width="41%" />
   </p>
  </div> 
   <br/>
 <div align="center">
    <p> :seedling: I’m currently learning Machine Learning.</p>
    <p> :speech_balloon: Ask me about SQL,Python,Data Visualization</p>
-   <p> :mailbox: How to reach me :maheshdethe2001@gmail.com</p>
+   <p> :mailbox: How to reach me :kartikeyabaijal@gmail.com</p>
 </div>
 <p align= "center">
 <img src="https://img.shields.io/badge/SQL-MSSQL-red"/>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
       <a href="mailto:kartikeyabaijal@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-    <p>Call Me: +91-7559194263</p>
+    <p>Call Me: +91-8750262419</p>
 </span>
 ## :heart: Views and Followers
 <a href="https://github.com/Kartikeya101/github-profile-views-counter">
