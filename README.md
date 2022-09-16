@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kartikeya Baijal</h1>
-<h3 align="center">I'm a Data Analyst with hands-on experience in Analyzing & Visualizing Data so that the it will help our company's growth.Adeptable at learning, unlearning, and relearning.Proficient in Excel, SQL, Python, Tableau. Highly skilled in collaboration, decision-making, Data Cleaning & Visualization.</h3>
+<h3 align="center">Devoted to extracting meaning from the provided data using various tools, including SQL, Excel, Python, and Tableau. Likes to collaborate with others to solve problems in teams, and is always learning new things to improver job. Ready to put in a lot of effort to benefit the company.
+</h3>
 
 <div>
  <p>
     <img  src="https://images.squarespace-cdn.com/content/v1/574faff6f8baf35e5da43485/1553914921320-JL7TJLMKYJ0H1JUXG5CY/Data-Inspect.gif?format=1000w" alt="maheshdethe01" width="41%" />
-    <img align="right" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/200w.gif?cid=82a1493b4hsvjb5f485v272b7hoyhuaeyyfjfu6a3dm3wb0k&rid=200w.gif&ct=g" alt="maheshdethe01" width="41%" />
+    <img align="right" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/200w.gif?cid=82a1493b4hsvjb5f485v272b7hoyhuaeyyfjfu6a3dm3wb0k&rid=200w.gif&ct=g" alt="maheshdethe01" width="40%" />
   </p>
  </div> 
   <br/>
