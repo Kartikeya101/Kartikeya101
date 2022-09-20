@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kartikeya Baijal</h1>
+<div align = "center" >
+<img src="https://github.com/Kartikeya101/Kartikeya101/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(7).gif" width="300" height = "100" />
 <h3 align="center">Devoted to extracting meaning from the provided data using various tools, including SQL, Excel, Python, and Tableau. Likes to collaborate with others to solve problems in teams, and is always learning new things to improver job. Ready to put in a lot of effort to benefit the company.
 </h3>
-
+</div>
 <div>
  <p>
     <img  src="https://images.squarespace-cdn.com/content/v1/574faff6f8baf35e5da43485/1553914921320-JL7TJLMKYJ0H1JUXG5CY/Data-Inspect.gif?format=1000w" alt="maheshdethe01" width="41%" />
