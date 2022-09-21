@@ -66,3 +66,5 @@ Here are some ideas to get you started:
 <div align="center">
    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=Kartikeya101&theme=synthwave" alt="Kartikeya101" />
 </div>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
