@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = "center" >
-<img src="https://github.com/Kartikeya101/Kartikeya101/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(7).gif" width="300" height = "100" />
+<img src="https://github.com/Kartikeya101/Kartikeya101/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(7).gif" width="600" height = "200" />
 <h3 align="center">Devoted to extracting meaning from the provided data using various tools, including SQL, Excel, Python, and Tableau. Likes to collaborate with others to solve problems in teams, and is always learning new things to improver job. Ready to put in a lot of effort to benefit the company.
 </h3>
 </div>
