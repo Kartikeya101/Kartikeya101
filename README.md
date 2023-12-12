@@ -25,7 +25,6 @@ Here are some ideas to get you started:
  </div> 
   <br/>
 <div align="center">
-   <p> :seedling: I’m currently learning Machine Learning.</p>
    <p> :speech_balloon: Ask me about SQL,Python,Data Visualization</p>
    <p> :mailbox: How to reach me :kartikeyabaijal@gmail.com</p>
 </div>
